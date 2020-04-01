@@ -1,0 +1,50 @@
+footer
+    {
+        padding: 6em 0 6em 0;
+        background: #1D1513;
+        text-align: center;
+        color: #c8e7f0;
+    }
+
+    footer h2
+    {
+        color: #fff;
+        font-family: sans-serif;
+    }
+    footer a
+    {
+        color: #c8e7f0;
+        text-decoration: none;
+        font-family: sans-serif;
+    }
+
+    footer .icon
+    {
+        background-size:100% 100%;
+        max-height:10%;
+    }
+
+
+    footer table td
+    {
+        padding: 0.5em 0.5em;
+        color: #fff;
+    }
+
+    .icon
+    {
+        font-family:FontAwesome;
+        color:#f6755e;
+    }
+    ul
+    {
+        list-style:none;
+        margin: 0 0 2em 0;
+        padding-left: 0em;
+    }
+
+    ul li
+    {
+        padding: 0 3em 0 0;
+        display:inline-block;
+    }
